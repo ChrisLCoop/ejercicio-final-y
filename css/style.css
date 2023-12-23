@@ -97,7 +97,7 @@
         line-height: 20px;
       }
 
-
+    }
 /*header*/
 
 header{
@@ -266,8 +266,9 @@ header{
     }
 }
 
+
+
 @media screen and (max-width:360px) {
-    
     .content-info h1{
         font-size: 20px;
         text-align: center;
@@ -277,5 +278,4 @@ header{
         font-size: 9px;
         text-align: center;
     }
-    
 }
