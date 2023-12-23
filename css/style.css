@@ -353,17 +353,40 @@ header{
     
     .caja1 {
         background-position: right 50% top 0%;
-        padding-top: 450px;
+        padding-top: 400px;
         text-align: center;
         display: flex;
-        flex-direction: column;     
+        flex-direction: column;
+        padding-left: 0;
+        align-items: center;
+        
     }
 
     .tituloxs{
         display: flex;
         text-align: center;
-        width: 100%;  
+        width: 100%;
+        top: 0;
+        right: 0;
     }
+
+    .tituloxs h2{
+        text-align: center;
+        font-size: 26px;
+        margin: auto;
+        padding-bottom: 50px;
+    }
+
+    .texto-fila1{
+        width: 80%;
+        font-size: 20px;
+    }
+
+    .texto-fila2{
+        width: 80%;
+        font-size: 20px;
+    }
+    
 
 
 }
